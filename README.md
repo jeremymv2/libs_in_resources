@@ -6,6 +6,6 @@ This is an example of using the `verify_inspec_version` method from the `myhelpe
 
 ```
   converge_by 'verifies the inspec version' do
-    verify_inspec_version version # verify_inspec_version is a function call from `myhelper.rb`
+    verify_inspec_version version # `verify_inspec_version` is a function call from `myhelper.rb`
   end
 ```
