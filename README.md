@@ -1,2 +1,4 @@
 # libs_in_resources
-Using Chef libraries in new custom resources (12.5)
+
+TODO: Enter the cookbook description here.
+
