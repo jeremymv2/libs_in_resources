@@ -16,6 +16,6 @@ action :install do
   end
 
   converge_by 'verifies the inspec version' do
-    verify_inspec_version version
+    verify_inspec_version version # `verify_inspec_version` is a function call from `myhelper.rb`
   end
 end
